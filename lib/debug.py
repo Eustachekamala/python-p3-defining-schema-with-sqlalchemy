@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine # type: ignore
 
 from sqlalchemy_sandbox import Student
 
